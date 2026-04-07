@@ -10,4 +10,4 @@ I completed a full-stack development program, got some hands-on practice in a re
 
 
 #### Find me here:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='18'>](https://www.linkedin.com/in/nataliia-kozak-6ba446220/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='18'>](https://www.linkedin.com/in/nataliia-kozak-6ba446220/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='18'>](https://t.me/ToBe137)
